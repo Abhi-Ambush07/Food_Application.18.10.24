@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "311690882404",
+    "project_id": "foodapp-b2580",
+    "storage_bucket": "foodapp-b2580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311690882404:android:54100178f28273b9fe1e71",
+        "android_client_info": {
+          "package_name": "com.foodapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vO6avVdO8h5qXXaH3nvFydVsqg7wPQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311690882404:android:38365c1955743988fe1e71",
+        "android_client_info": {
+          "package_name": "com.foodapplication.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vO6avVdO8h5qXXaH3nvFydVsqg7wPQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311690882404:android:0197fa5dc8f53549fe1e71",
+        "android_client_info": {
+          "package_name": "com.sunsetdiners.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vO6avVdO8h5qXXaH3nvFydVsqg7wPQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
